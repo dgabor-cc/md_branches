@@ -1,3 +1,3 @@
 # md_branches
 
-itt vagyok a **master** branchen.
+itt vagyok az **other_1** branchen.
